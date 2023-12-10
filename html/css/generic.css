@@ -10,11 +10,12 @@ h2 {
 }
 p {
     border-style: inherit;
-    font-size: 35px;
+    font-size: 25px;
 }
 button {
     border-style: ridge;
     color: black;
     size: 100px;
     background-color: aqua;
+    font-size: 25px;
 }
