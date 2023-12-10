@@ -19,3 +19,11 @@ button {
     background-color: aqua;
     font-size: 25px;
 }
+pre {
+    border-style: inherit;
+    font-size: 25px;
+}
+a {
+    font-family: Helvetica;
+    font-size: 25px;
+}
